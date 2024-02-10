@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Souaibou Dine Barry</h1>
 <h3 align="center">A computer science student from France</h3>
 
-- 🔭 I’m an apprentice software engineer **Sopra Steria**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/souaiboudine-barry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souaiboudine-barry" height="30" width="40" /></a>
+<a href="https://discord.gg/944235891730313296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="944235891730313296" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
