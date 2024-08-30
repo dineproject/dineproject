@@ -1,4 +1,4 @@
-# Bonjour! 🤗
+# Bonjour ! 🤗
 
 - 🎓 Doing a Master’s in Computer Science at the University of Nantes.
 - 💼 Former software engineering apprentice at Sopra Steria.
