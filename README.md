@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Souaibou Barry
 
-<!--
-**dineproject/dineproject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Student** @ Polytech Nantes  
+**Cisco Certified Network Associate** (CCNA)  
+**Lead Dev** @ Guinify  
+**Fullstack Dev** (Part-time) @ SUN
 
-Here are some ideas to get you started:
+## Dev Projects are hosted on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🦊 **GitLab Nantes University:** [gitlab.univ-nantes.fr/dineproject](https://gitlab.univ-nantes.fr/dineproject)
+
+### Featured Projects
+
+🌐 [Network Mega Labs](https://github.com/dineproject/network-mega-labs) - Networking labs  
+🎲 [DiceWars C++](https://gitlab.univ-nantes.fr/dineproject/dinecewars-cpp) - Strategy game with AI  
+🎯 [Strategic AI Agents](https://gitlab.univ-nantes.fr/dineproject/strategic-ai-agents) - MCTS, Genetic Algorithms, Markov Models  
+📚 [GuinéExamen](https://guineexamen.org) - National exam results platform for Guinea  
+🚁 [Google Hash Code 2016](https://gitlab.univ-nantes.fr/dineproject/Google-Hash-Code-2016) - Drone delivery optimization  
+💼 [Old Portfolio](https://old-portfolio-souaibou.web.app/) - Archived student portfolio
+
+---
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/souaibou-barry/)
