@@ -2,7 +2,7 @@
 
 **Student** @ Polytech Nantes  
 **Cisco Certified Network Associate** (CCNA)  
-**Fullstack Dev** (Part-time) @ SUN
+**Developper** (Part-time) @ SUN
 
 ## Dev Projects are hosted on:
 
