@@ -2,7 +2,6 @@
 
 **Student** @ Polytech Nantes  
 **Cisco Certified Network Associate** (CCNA)  
-**Lead Dev** @ Guinify  
 **Fullstack Dev** (Part-time) @ SUN
 
 ## Dev Projects are hosted on:
